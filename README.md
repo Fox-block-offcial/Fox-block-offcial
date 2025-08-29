@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🦊 Fox-block-offcial
 
-<!--
-**Fox-block-offcial/Fox-block-offcial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“藏狐一只 科技/游戏全部有所涉及”*
 
-Here are some ideas to get you started:
+## 👋 关于我
+你好！我是 Fox-block-offcial，一名充满热情的学生，同时也是 SECTL 组织下的一员。热爱探索网络安全与编程，目前专注于 Python 技术的学习和成长。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **SECTL组织成员**  
+- 📝 **技能：文档纠错**  
+- 🐍 **正在学习：Python**  
+- 🦸‍♂️ **风格喜好：卡通**
+
+## 🚩 我参与的项目
+- [SECTL/SecRandom](https://github.com/SECTL/SecRandom)  
+  一个专注随机点名的项目
+
+
+## 🎨 我的风格
+我喜欢卡通风格和轻松愉快的氛围。学习编程、参与项目，对我来说都是一次次有趣的冒险！
+
+## 🌱 未来计划
+- 深入掌握 Python 编程
+- 参与更多 SECTL 项目
+- 持续提升文档纠错和协作能力
+
+---
+
+> **欢迎交流，一起成长！**
