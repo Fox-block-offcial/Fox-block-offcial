@@ -7,6 +7,4 @@
 
 ## 🚩 我参与的项目
 - [SECTL/SecRandom](https://github.com/SECTL/SecRandom)  
-  一个专注随机点名的项目
-
-- [SECTL/SecScore](https://github.com/SECTL/SecScore)   一个积分管理项目
+- [SECTL/SecScore](https://github.com/SECTL/SecScore) 
