@@ -1,28 +1,12 @@
-# 🦊 Fox-block-offcial
+# 🦊 Fox-block
 
-> *“藏狐一只 科技/游戏全部有所涉及”*
+> *“技不独行 必逢知音”*
 
 ## 👋 关于我
-你好！我是 Fox-block-offcial，一名充满热情的学生，同时也是 SECTL 组织下的一员。热爱探索网络安全与编程，目前专注于 Python 技术的学习和成长。
-
-- 🎯 **SECTL组织成员**  
-- 📝 **技能：文档纠错**  
-- 🐍 **正在学习：Python**  
-- 🦸‍♂️ **风格喜好：卡通**
+你好！我是 Fox-block（你也可以叫我藏狐），一名初二在读的牛马学生，同时也是 SECTL 组织下的一员。
 
 ## 🚩 我参与的项目
 - [SECTL/SecRandom](https://github.com/SECTL/SecRandom)  
   一个专注随机点名的项目
 
-
-## 🎨 我的风格
-我喜欢卡通风格和轻松愉快的氛围。学习编程、参与项目，对我来说都是一次次有趣的冒险！
-
-## 🌱 未来计划
-- 深入掌握 Python 编程
-- 参与更多 SECTL 项目
-- 持续提升文档纠错和协作能力
-
----
-
-> **欢迎交流，一起成长！**
+- ［SECTL/SecScore］(https://github.com/SECTL/SecScore) 一个积分管理项目
