@@ -1,4 +1,4 @@
-# 🦊 Fox-block
+# Fox-block（藏狐）
 
 > *“技不独行 必逢知音”*
 
@@ -9,4 +9,4 @@
 - [SECTL/SecRandom](https://github.com/SECTL/SecRandom)  
   一个专注随机点名的项目
 
-- ［SECTL/SecScore］(https://github.com/SECTL/SecScore) 一个积分管理项目
+- [SECTL/SecScore](https://github.com/SECTL/SecScore)   一个积分管理项目
